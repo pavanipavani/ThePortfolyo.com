@@ -1,0 +1,35 @@
+.socialTitle
+{
+    text-align: center;
+    padding:10px;
+    border: 2px solid black;
+    background-color: rgb(192, 247, 247);
+    border-radius: 50px;
+    left: 500px;
+    right: 500px;
+    color: black;
+    position: fixed;
+    top: 0px;
+}
+.socialinfo
+{
+    margin-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.socialborder
+{
+    border: 5px solid black;
+    width: 580px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: rgb(192, 247, 247);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
+.socialimage
+{
+    width: 220px;
+    height: 220px;
+    margin-top: 20px;
+}

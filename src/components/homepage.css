@@ -1,0 +1,30 @@
+.navbar
+{
+    border: 2px solid black;
+    display: flex;
+    background-color:#191919;
+    
+}
+.portfoliyoimage
+{
+    height: 700px;
+    width: 1450px;
+}
+.flex
+{
+    display: flex;
+    margin-left: 270px;
+    
+
+}
+.display {
+    margin-left: 45px;
+    font-size: 20px;
+    color: white;
+    margin-top: 23px;
+   
+}
+.border_removing
+{
+    text-decoration: none;
+}

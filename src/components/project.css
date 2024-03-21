@@ -1,0 +1,36 @@
+.projectsTitle
+{
+    text-align: center;
+    padding:10px;
+    border: 5px solid rgb(186, 46, 246);
+    background-color: rgb(232, 211, 184);
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.borders
+{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 50px;
+    background-color: antiquewhite;
+    border: 5px solid rgb(166, 0, 255);
+}
+.imagesize1
+{
+    width:550px;
+    height: 400px;
+    padding: 20px;
+}
+.projectBorder
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 5px solid black;
+    background-color: white;
+}
+.projectBorder:hover
+{
+    background-color: rgb(186, 46, 246);
+}
